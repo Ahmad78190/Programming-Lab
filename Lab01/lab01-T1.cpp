@@ -1,1 +1,23 @@
-
+/*  
+  * Lab          :   01   -   T1
+  * Name      :   Ahmad Ali
+  * Roll  No   :   2026-SET-31
+  * Date        :   24-11-2026
+  * Purpose  :   print a student profile
+  */
+  #include <iostream>
+  using namespace std;
+  int main()
+  {
+ 	cout << "==================================\n";
+     cout << "\tSTUDENT PROFILE\n";
+     cout << "==================================\n";
+     cout << "Name\t\t: Ahmad Ali\n";
+     cout << "Roll No\t\t: 2026-SET-31\n";
+     cout << "Program\t\t: BS SE Technology\n";
+     cout << "Semester\t: 1\n";
+     cout << "Motto\t\t: \"Code. Test. Repeat.\"\n";
+     cout << "Folder\t\t: D: \\Students\\Lab01\n";
+     cout << "==================================\n";
+     return 0;
+  }
